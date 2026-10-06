@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Round Fight</string>
+
+    <!-- Setup -->
+    <string name="config_rounds">Rounds</string>
+    <string name="config_round_duration">Duração do round</string>
+    <string name="config_rest_duration">Descanso</string>
+    <string name="config_prepare_duration">Preparação</string>
+    <string name="action_start">COMEÇAR</string>
+    <string name="action_save_preset">Salvar como preset</string>
+    <string name="settings_sound">Som</string>
+    <string name="settings_vibration">Vibração</string>
+
+    <!-- Fases -->
+    <string name="phase_prepare">PREPARE-SE</string>
+    <string name="phase_fight">LUTA!</string>
+    <string name="phase_rest">DESCANSO</string>
+    <string name="phase_finished">FIM DE TREINO!</string>
+    <string name="phase_round_number">ROUND %1$d/%2$d</string>
+
+    <!-- Ações do timer -->
+    <string name="action_pause">Pausar</string>
+    <string name="action_resume">Retomar</string>
+    <string name="timer_paused">PAUSADO</string>
+    <string name="timer_running_return">TIMER EM ANDAMENTO — TOQUE PARA VOLTAR</string>
+    <string name="action_skip">Pular fase</string>
+    <string name="action_stop">Encerrar</string>
+    <string name="action_finish">Concluir</string>
+    <string name="action_decrease">Diminuir</string>
+    <string name="action_increase">Aumentar</string>
+    <string name="action_back">Voltar</string>
+    <string name="action_delete">Excluir</string>
+    <string name="action_save">Salvar</string>
+    <string name="action_cancel">Cancelar</string>
+
+    <!-- Presets -->
+    <string name="presets_title">Presets</string>
+    <string name="presets_empty">Nenhum preset salvo.\nConfigure um treino e toque em "Salvar como preset".</string>
+    <string name="preset_dialog_title">Salvar preset</string>
+    <string name="preset_dialog_hint">Ex.: Boxe 12×3</string>
+    <string name="preset_summary">%1$d × %2$s · descanso %3$s · preparação %4$s</string>
+
+    <!-- Notificação -->
+    <string name="notification_channel_name">Timer de treino</string>
+    <string name="notification_timer_format">%1$s — %2$s</string>
+</resources>
