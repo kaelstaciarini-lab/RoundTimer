@@ -75,7 +75,6 @@ Round_Timer/
 ├── gradle.properties
 ├── gradlew
 ├── settings.gradle.kts
-├── AGENTS.md
 ├── README.md
 └── local.properties
 ```
@@ -100,14 +99,6 @@ export JAVA_HOME=/usr/lib/jvm/java-21-openjdk-amd64
 2. Aguarde a sincronização do Gradle.
 3. Configure um emulador Android ou conecte um dispositivo físico.
 4. Clique em Run.
-
-Ou, via terminal:
-
-```bash
-cd /home/kael_staciarini/Documentos/softwares/Round_Timer
-export JAVA_HOME=/usr/lib/jvm/java-21-openjdk-amd64
-./gradlew installDebug
-```
 
 ---
 
